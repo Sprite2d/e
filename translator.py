@@ -14,3 +14,4 @@ def list_audio_devices():
             print(f"Index {i}: {dev['name']}")
     p.terminate()
 
+
